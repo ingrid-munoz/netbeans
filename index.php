@@ -14,6 +14,7 @@ and open the template in the editor.
         echo "Ejercicio 4. Netbeans y Git";
         echo "Ejercicio 4. Netbeans y Git, añadiendo cambios";
         echo "Ejercicio 4. Netbeans y Git, añadiendo otro cambio";
+        echo "Ejercicio 4. Netbeans y Git, modificando index desde github";
         ?>
     </body>
 </html>
